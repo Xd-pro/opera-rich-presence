@@ -7,3 +7,5 @@ Clone the repository:
 
 Extract the downloaded .zip file.
 Double click "main.py"
+# Configuration
+Add the names of websites that you want to display on rich presence to sites.json. Make sure they include their name in the tab name, or else this won't work!

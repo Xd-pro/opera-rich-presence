@@ -7,7 +7,7 @@ Clone the repository:
 
 Extract the downloaded .zip file.
 
-Next, open a command prompt/powershell in the folder you extracted (Shift+Right Click). Then enter `pip install -r requirements.txt`
+Next, open a command prompt/powershell in the folder you extracted (Shift+Right Click). Then enter `pip install wheel` and then `pip install -r requirements.txt`.
 
 Double click "main.py".
 # Configuration
